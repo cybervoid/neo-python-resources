@@ -1,4 +1,4 @@
 # neo-python-resources
-A collection of notes and compiled resources that I've learned since starting with Neo Python
+As I've started the process of learning more about Neo Python, I'm going to try and compile my notes into a single location, so others can benefit.
 
 - [Python Code Examples](/python-examples.md) - Examples of Neo related code and smart contracts written in Python
