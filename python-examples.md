@@ -6,11 +6,10 @@
 
 
 ## Documentation Links
+- Neo Python: [GitHub](https://github.com/CityOfZion/neo-python/) | [Documentation](https://neo-python.readthedocs.io/en/latest/)
+- Neo Boa: [GitHub](https://github.com/CityOfZion/neo-boa) | [Documentation](http://neo-boa.readthedocs.io/en/latest/)
 
 
-
-- Neo Python: [Documentation](https://neo-python.readthedocs.io/en/latest/) | [GitHub](https://github.com/CityOfZion/neo-python/)
-- Neo Boa: [Documentation](http://neo-boa.readthedocs.io/en/latest/) | [GitHub](https://github.com/CityOfZion/neo-boa)
 
 ## Code Examples
 
@@ -23,8 +22,8 @@
 - [Sunny DApp smart contract](https://github.com/JorritvandenBerg/sunny-dapp/blob/master/smartcontract/sunny_dapp.py) - DApp Competition entrant.
 
 ### Middleware Examples
-- [Splyse Neo Smart IoT middleware](https://github.com/Splyse/neo-smart-iot/blob/master/neo-pubsub.py) - Splyse IOT
-- [Neo Python smart contract](https://github.com/nickazg/neo-fund/blob/master/neo-fund-py/neo-fund-prompt.py) - Neo Fund blockchain middleware.
+- [Splyse Neo Smart IoT middleware](https://github.com/Splyse/neo-smart-iot/blob/master/neo-pubsub.py) - DApp Competition Entrant. IOT device middleware.
+- [Neo Python smart contract](https://github.com/nickazg/neo-fund/blob/master/neo-fund-py/neo-fund-prompt.py) - DApp Competition Entrant. Neo Fund blockchain middleware.
 
 ### Additional Information
 More information regarding the DApp competition entrants can be found [here](https://medium.com/proof-of-working/coz-first-dapps-competition-dapp-review-3a6b284afaef)
